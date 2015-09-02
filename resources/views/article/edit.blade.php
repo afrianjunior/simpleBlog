@@ -2,7 +2,7 @@
 
 @section('content')
 	<h1>Edit Article - "{{ $article->title }}"</h1>
-	<p class="lead">Edit this article below. <a href="{{ url('articles') }}">Go Back to all articles</a></p>
+	<p class="lead">Edit this article below. <a href="{{ url('article') }}">Go Back to all articles</a></p>
 	<hr>
 
 @include('partials.alerts.errors')
