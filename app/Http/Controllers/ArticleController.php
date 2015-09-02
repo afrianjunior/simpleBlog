@@ -16,7 +16,6 @@ class ArticleController extends Controller {
 	public function showAll(){
 		$articles = Article::latest('published_at')->get();
 
-
 		return view('article.showall', compact('articles', $articles));
 	}
 
@@ -28,28 +27,26 @@ class ArticleController extends Controller {
 		$this->validate($request, [
 			'title' => 'required',
 			'body' => 'required'
-			]);
+		]);
 
 		$input = $request->all();
 		$input['published_at'] = Carbon::now();
 
 		Article::create($input);
 
-		Session::flash('flash_message', 'Article Successfully Added');
-
-		return redirect()->back();
+		return redirect('article')->with('flash_message', 'Article Successfully Added');
 	}
 
 	public function show($id){
 		$article = Article::findOrFail($id);
 
-		return view('article.show', compact('article', $article));
+		return view('article.show', compact('article'));
 	}
 
 	public function edit($id){
 		$article = Article::findOrFail($id);
 
-		return view('article.edit', compact('article', $article));
+		return view('article.edit', compact('article'));
 	}
 
 	public function update($id, Request $request){
@@ -58,15 +55,11 @@ class ArticleController extends Controller {
 		$this->validate($request, [
 			'title' => 'required',
 			'body' => 'required'
-			]);
+		]);
 
-		$input = $request->all();
+		$articles->fill($request->all())->save();
 
-		$articles->fill($input)->save();
-
-		Session::flash('flash_message', 'Article Successfully Added!');
-
-		return redirect('article');
+		return redirect('article')->with('flash_message', 'Article Successfully Updated!');;
 	}
 
 	public function destroy($id){
@@ -74,10 +67,7 @@ class ArticleController extends Controller {
 
 		$articles->delete();
 
-		Session::flash('flash_message', 'Article Successfully Deleted!');
-
-		return redirect('article');
-
-
+		return redirect('article')->with('flash_message', 'Article Successfully Deleted!');;
 	}
+
 }
