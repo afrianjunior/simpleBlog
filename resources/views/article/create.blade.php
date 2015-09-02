@@ -4,6 +4,8 @@
 	<h1>Write A New Article</h1>
 	<hr>
 
+	@include('partials.alerts.errors')
+
 	{!! Form::open(['url' => 'article']) !!}
 		<div class="form-group">
 			{!! Form::label('title', 'Title:') !!}
@@ -16,14 +18,6 @@
 		{!! Form::submit('Add Article', ['class' => 'btn btn-primary form-control']) !!}
 
 	{!! Form::close() !!}
-
-	@if($errors->any())
-		<div class="alert alert-danger">
-			@foreach($errors->all() as $error)
-				<p>{{ $error }}</p>
-			@endforeach
-		</div>	
-	@endif
 
 	@if(Session::has('flash_message'))
 		<div class="alert alert-success">
