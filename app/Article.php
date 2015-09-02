@@ -4,6 +4,6 @@ use Illuminate\Database\Eloquent\Model;
 
 class Article extends Model {
 
-	protected $fillable = array('title', 'body', 'puslished_at');
+	protected $fillable = array('title', 'body', 'published_at');
 
 }
