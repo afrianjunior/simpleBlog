@@ -1,0 +1,1280 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"SU",
+				"successfully"
+			],
+			[
+				"flash",
+				"flash_message"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"requ",
+				"required"
+			],
+			[
+				"pub",
+				"public"
+			],
+			[
+				"A",
+				"ArticlesController"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"ar",
+				"article	Tag"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"co",
+				"compact"
+			],
+			[
+				"is",
+				"is_null"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"o",
+				"ortu"
+			],
+			[
+				"as",
+				"aset"
+			],
+			[
+				"dta",
+				"dataOrangTua"
+			],
+			[
+				"li",
+				"listAset"
+			],
+			[
+				"data",
+				"dataIdentitas"
+			],
+			[
+				"to",
+				"toaset"
+			],
+			[
+				"list",
+				"listOrtu"
+			],
+			[
+				"iden",
+				"identitas"
+			],
+			[
+				"ide",
+				"identitas"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"tim",
+				"timestamps"
+			],
+			[
+				"fu",
+				"func"
+			],
+			[
+				"get_",
+				"get_name"
+			],
+			[
+				"em",
+				"employee_name"
+			],
+			[
+				"p",
+				"person_name"
+			],
+			[
+				"set",
+				"set_name"
+			],
+			[
+				"an",
+				"angkaList_int"
+			],
+			[
+				"angka",
+				"angkaList_int"
+			],
+			[
+				"angk",
+				"angka"
+			],
+			[
+				"hit",
+				"hitungList"
+			],
+			[
+				"ang",
+				"angkaList"
+			],
+			[
+				"bali",
+				"balikkata"
+			],
+			[
+				"balik",
+				"balikkata"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"te",
+				"text_length"
+			],
+			[
+				"cl",
+				"cleaned_data"
+			],
+			[
+				"fo",
+				"form	Tag"
+			],
+			[
+				"for",
+				"form"
+			],
+			[
+				"c",
+				"context"
+			],
+			[
+				"Sig",
+				"SignUpForm"
+			],
+			[
+				"da",
+				"dataTuple"
+			],
+			[
+				"nil",
+				"nilaiB"
+			],
+			[
+				"Si",
+				"SignUpAdmin"
+			],
+			[
+				"auto",
+				"auto_now_add"
+			],
+			[
+				"Te",
+				"Teka_teki"
+			],
+			[
+				"S",
+				"Step3"
+			],
+			[
+				"Ste",
+				"Step2"
+			],
+			[
+				"aut",
+				"auto_now_add"
+			],
+			[
+				"mongo",
+				"mongoengine"
+			],
+			[
+				"time",
+				"timedelta"
+			],
+			[
+				"resu",
+				"results"
+			],
+			[
+				"tem",
+				"template_name"
+			],
+			[
+				"url",
+				"urlpatterns"
+			],
+			[
+				"qu",
+				"question_id"
+			],
+			[
+				"retur",
+				"return"
+			],
+			[
+				"HttpRes",
+				"HttpResponseRedirect"
+			],
+			[
+				"sele",
+				"selected_choice"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"ex",
+				"except"
+			],
+			[
+				"get",
+				"get_object_or_404"
+			],
+			[
+				"qui",
+				"question"
+			],
+			[
+				"date",
+				"datetime"
+			],
+			[
+				"CHo",
+				"ChoiceInline"
+			],
+			[
+				"Qu",
+				"Question"
+			],
+			[
+				"Q",
+				"Question"
+			],
+			[
+				"fiel",
+				"fields"
+			],
+			[
+				"no",
+				"noregis"
+			],
+			[
+				"pr",
+				"profile"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back",
+				"background-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"id",
+				"id_foto"
+			],
+			[
+				"kone",
+				"Koneksi"
+			],
+			[
+				"ima",
+				"imageForm"
+			],
+			[
+				"mu",
+				"muncul"
+			],
+			[
+				"fil",
+				"fileToUpload"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"di",
+				"dialogGambar"
+			],
+			[
+				"e",
+				"e"
+			],
+			[
+				"ambil",
+				"btnAmbilGambar"
+			],
+			[
+				"BA",
+				"BASE_DIR"
+			],
+			[
+				"rand",
+				"randomName"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"mysql_c",
+				"mysql_connect"
+			],
+			[
+				"ur",
+				"url"
+			],
+			[
+				"Movie",
+				"MovieMixin"
+			],
+			[
+				"Cre",
+				"CreateView"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"st",
+				"st_rumah"
+			],
+			[
+				"statu",
+				"status_rmh"
+			],
+			[
+				"sta",
+				"status_rumah"
+			],
+			[
+				"stat",
+				"status_rmh"
+			],
+			[
+				"jml",
+				"jumlah_tab"
+			],
+			[
+				"iura",
+				"iuran_telkom"
+			],
+			[
+				"iur",
+				"iuran_pln"
+			],
+			[
+				"pbb",
+				"pbb"
+			],
+			[
+				"air",
+				"jen_air"
+			],
+			[
+				"baha",
+				"bahan_lantai"
+			],
+			[
+				"bhn",
+				"bahan_atap"
+			],
+			[
+				"mo",
+				"motor"
+			],
+			[
+				"se",
+				"sepeda"
+			],
+			[
+				"luas",
+				"luas_bangunan"
+			],
+			[
+				"iuran",
+				"iuran_telkom"
+			],
+			[
+				"bar",
+				"baris_aset"
+			],
+			[
+				"has",
+				"hasil_aset"
+			],
+			[
+				"pend",
+				"pend_ibu"
+			],
+			[
+				"prov",
+				"prov_ortu"
+			],
+			[
+				"alama",
+				"alamat_ortu"
+			],
+			[
+				"tel",
+				"telp_ortu"
+			],
+			[
+				"nm",
+				"nm_ibu"
+			],
+			[
+				"pek",
+				"pek_ibu"
+			],
+			[
+				"pro",
+				"prov_ortu"
+			],
+			[
+				"alam",
+				"alamat_ortu"
+			],
+			[
+				"nama",
+				"nama_ayah"
+			],
+			[
+				"jen",
+				"jenis_sekolah"
+			],
+			[
+				"ala",
+				"alamat"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"sessio",
+				"session_start"
+			],
+			[
+				"ses",
+				"session_start"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/Http/routes.php",
+			"settings":
+			{
+				"buffer_size": 1355,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ArticlesController.php",
+			"settings":
+			{
+				"buffer_size": 1690,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/partials/alerts/errors.blade.php",
+			"settings":
+			{
+				"buffer_size": 142,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/articles/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 841,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/articles/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 919,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/articles/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/articles/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 689,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".env",
+			"settings":
+			{
+				"buffer_size": 296,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "<?php namespace App;\n\nuse Illuminate\\Database\\Eloquent\\Model;\n\nclass Article extends Model {\n\n	protected $fillable = array('title', 'body', 'published_at');\n\n}\n",
+			"file": "app/Article.php",
+			"file_size": 160,
+			"file_write_time": 1440871465000000,
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/app.php",
+			"settings":
+			{
+				"buffer_size": 7237,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 893,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/Python/Python.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Clear All"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/storage/framework/views/5c61e53b2b6f69dfa00a687e3f40d79b",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/storage/framework/views/77711f9a82215e64c65d65e1076a8d4d",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_29_171217_create_articles_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_29_172409_create_articles_table.php",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/findDuplicateList.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/readFile.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/readSQL.py",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/Controllers/PagesController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/tasks/create.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/Controllers/TasksController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/storage/framework/views/2b3f28cc27d0999c9bf77586faf91303",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/storage/framework/views/2eccee778c535c322cadea8eead2a308",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Task.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_155537_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_144513_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/pages/home.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/layouts/master.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/tasks/index.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/.env",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/config/database.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_141408_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_142223_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/config/app.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_141355_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_141252_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_141329_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_24_125654_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_24_130115_create_tasks_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/Controllers/TasksControler.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/tasks/index.master.blade",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/blog.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/app/Http/Controllers/WelcomeController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/resources/views/front/konten-awal.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/resources/views/layouts/awal.blade.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/loginCheck.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/loginAct.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/composer.json",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/config/app.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/tasks/index.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/tasks/create.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/TaskController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/layouts/master.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/pages/home.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/PagesController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/storage/framework/views/293b591aa271abfc438714ea9ba17404",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/database/migrations/2015_08_18_170850_create_articles_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/.env",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/front/index.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/front/about.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/front/work.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/contoh/kontak.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/contoh/tentang.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/app.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/ContohController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/Controller.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Kernel.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/contoh-blade.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/contoh/tentang.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/app/Http/Controllers/ContohController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/public/css/main.css",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/app/Http/Controllers/front/BlogController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/front/tentang.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/contoh/tentang.php.blade",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/app/Http/Controllers/Controller.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/app/Http/Controllers/WelcomeController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/app/Http/Controllers/Auth/PasswordController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/front/about.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/front/home.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/front/HomeController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/public/css/bootstrap-theme.min.css",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/welcome.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/hello.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/laravel.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/OOP/index.php",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/tebakAngka.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/15argumen.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/fungsiBersarang.py",
+		"/home/handrywahyudi/.bashrc",
+		"/home/handrywahyudi/Documents/belajarLaravel/OOP/class_lib.php",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/fungsiBersarang.pyt",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/argumenListTuple.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/bilanganPrima.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/balikKata.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/newsletter/views.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/trydjango18/settings.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/templates/base.html",
+		"/home/handrywahyudi/Documents/belajarPython/BlogDjango/blog/blog/settings.py",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.ortu.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/actAset.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.lihat.ortu.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.index.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.lihat.identitas.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.aset.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.lihat.aset.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/page.identitas.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/index.php",
+		"/home/handrywahyudi/public_html/mhs_baru3/lihatIdentitas.php",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/MyBlog/templates/messages.html",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/MyBlog/settings.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/blog/models.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/blog/forms.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/MyBlog/urls.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/blog/urls.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/MyBlog/templates/base.html",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/MyBlog/urls.pyc",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/templates/home.html",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/templates/contactForm.html",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/newsletter/models.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/newsletter/admin.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/newsletter/forms.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/trydjango18/urls.py",
+		"/home/handrywahyudi/.local/share/applications/SublimeText2.desktop",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/argumenFungsi.py",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/argumenString.py",
+		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/newsletter/templates/home.html",
+		"/home/handrywahyudi/Documents/belajarPython/pythonLab/tekaTeki.py",
+		"/home/handrywahyudi/Documents/belajarPython/BlogDjango/blog/myblog/models.py",
+		"/home/handrywahyudi/Documents/belajarPython/BlogDjango/blog/myblog/admin.py",
+		"/home/handrywahyudi/Documents/belajarPython/BlogDjango/blog/templates/home.html",
+		"/home/handrywahyudi/public_html/mhs_baru4/db/koneksi.php",
+		"/home/handrywahyudi/public_html/mhs_baru4/actOrtu.php",
+		"/home/handrywahyudi/public_html/mhs_baru4/admin/page.admin.php"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"		\n",
+			"article",
+			"		\n",
+			"TasksController",
+			"stop",
+			"\n@",
+			"index",
+			"}\n",
+			"\n",
+			"(\"\")",
+			"';\n",
+			"data-controls-modal",
+			"):form	",
+			"):",
+			"blog",
+			"from mongoengine import connect\nconnect('blog')",
+			"AUTHENTICATION",
+			"ResultsView",
+			"retur",
+			"hdr",
+			"#video",
+			"id",
+			"snap",
+			"TEMPLATE_DIRS",
+			"templates_dir",
+			"<td>{{movie.genre}}</td>\n			<td>{{movie.price}}</td>\n			",
+			"database",
+			"mck",
+			"col-md-12 column",
+			"json",
+			"ponsel",
+			"nama_aset",
+			"no_regis_aset",
+			"no_regis_asetv",
+			"btnAsetTerisi",
+			"dataIdentitas",
+			"page",
+			"alert",
+			"tdk_kosong",
+			"validasi",
+			"mck",
+			"show",
+			"btnIdentitas",
+			"mahasiswa.php",
+			"Data Orang",
+			"Submit",
+			"btnAset",
+			"btnOrangTua",
+			"btnAset",
+			"dataAset",
+			"actOrtu.php",
+			"simpan_mhs",
+			"form_mhs",
+			"	\n",
+			"Pendidi",
+			"Pendidikan",
+			"dataOrangTua",
+			")\n",
+			"\"/>\n",
+			"1",
+			"id",
+			"F",
+			"nama_mhs",
+			"slider",
+			"');\n",
+			"focusout",
+			";\n",
+			"PALU",
+			"#0081c2",
+			".dropdown-menu",
+			"008",
+			"blue",
+			"menu",
+			"active",
+			"leaf",
+			"first",
+			"menu",
+			"navbar",
+			"main-menu",
+			"h1",
+			"h1,h2,h3",
+			"well",
+			"wells",
+			"second sidebar",
+			"!!!!!!!! W A R N I N G !!!!!!!!\n-- PLEASE PAUSE YOUR AD BLOCKER TO VIEW THIS PAGE --\n!!!!!!!! T H A N K Y O U !!!!!!!! ",
+			"000",
+			"site-name",
+			"#fff",
+			"body",
+			".body",
+			"body",
+			"site-footer",
+			".main-bottom",
+			"main-bottom",
+			"site footer",
+			"h2",
+			"/>",
+			"();\n",
+			"$bendera=$_POST['bendera'];\n							$pemilik=$_POST['pemilik'];\n							$keagenan=$_POST['keagenan'];\n							$alamat=$_POST['alamat'];\n							$status=$_POST['status_kapal'];\n							$type_kapal=$_POST['type_kapal'];\n							$jenis_pelayaran=$_POST['jenis_pelayaran'];\n							$jenis_trayek=$_POST['jenis_trayek'];\n							$dwt=$_POST['dwt'];\n							$panjang_kapal=$_POST['panjang_kapal'];\n							$draft=$_POST['draft'];\n							$tujuan=$_POST['tujuan'];\n							$jumlah_penumpang=$_POST['jumlah'];\n							",
+			"		",
+			"!',);",
+			"selamat",
+			"sikepal",
+			"					\n",
+			"				$(\"#",
+			"login",
+			"Masuk",
+			"masuk",
+			"mini",
+			"					\n",
+			"hide",
+			"				\n",
+			"\"\";\n",
+			"();\n",
+			"location",
+			"console"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/Http/routes.php",
+					"settings":
+					{
+						"buffer_size": 1355,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1355,
+								1355
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 405.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Http/Controllers/ArticlesController.php",
+					"settings":
+					{
+						"buffer_size": 1690,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1682,
+								1682
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 771.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/partials/alerts/errors.blade.php",
+					"settings":
+					{
+						"buffer_size": 142,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								135,
+								135
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/articles/create.blade.php",
+					"settings":
+					{
+						"buffer_size": 841,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								453,
+								453
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "resources/views/articles/edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 919,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								615,
+								615
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/articles/show.blade.php",
+					"settings":
+					{
+						"buffer_size": 567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								551,
+								551
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/articles/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 689,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								646,
+								646
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 45.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": ".env",
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								146,
+								146
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/Article.php",
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								160,
+								160
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "config/app.php",
+					"settings":
+					{
+						"buffer_size": 7237,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4773,
+								4773
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1665.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/views/layouts/master.blade.php",
+					"settings":
+					{
+						"buffer_size": 893,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								840,
+								840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 49.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 170.0,
+	"status_bar_visible": true
+}
