@@ -12,9 +12,9 @@
   <div class="container-fluid">
     <!-- <div class="navbar-header"> -->
     <div class="nav navbar-nav navbar-left">
-        <li><a href="{{ url('/') }}">Home</a></li>
-        <li><a href="{{ url('article') }}">Article</a></li>
-        <li><a href="#">About</a></li>
+        <li><a href="/">Home</a></li>
+        <li><a href="/article">Article</a></li>
+        <li><a href="">About</a></li>
     </div>
     <div class="nav navbar-nav navbar-right">
 

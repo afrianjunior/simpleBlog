@@ -519,6 +519,46 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "resources/views/article/showall.blade.php",
+			"settings":
+			{
+				"buffer_size": 439,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/front/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 90,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/layouts/master.blade.php",
+			"settings":
+			{
+				"buffer_size": 734,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/article/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 550,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/ArticleController.php",
+			"settings":
+			{
+				"buffer_size": 1641,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "Packages/Python/Python.sublime-build",
 	"command_palette":
@@ -527,11 +567,19 @@
 		"selected_items":
 		[
 			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
 				"",
-				"Bookmarks: Clear All"
+				"About"
 			]
 		],
-		"width": 392.0
+		"width": 400.0
 	},
 	"console":
 	{
@@ -827,8 +875,143 @@
 	"groups":
 	[
 		{
+			"selected": 4,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "resources/views/article/showall.blade.php",
+					"settings":
+					{
+						"buffer_size": 439,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "resources/views/front/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 90,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "resources/views/layouts/master.blade.php",
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								490,
+								490
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "resources/views/article/show.blade.php",
+					"settings":
+					{
+						"buffer_size": 550,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/Http/Controllers/ArticleController.php",
+					"settings":
+					{
+						"buffer_size": 1641,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1337,
+								1337
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1024.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
