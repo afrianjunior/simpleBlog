@@ -11,30 +11,32 @@
 |
 */
 
-// Route::get('/', 'WelcomeController@index');
-
-// Route::get('home', 'HomeController@index');
-
-// Route::controllers([
-// 	'auth' => 'Auth\AuthController',
-// 	'password' => 'Auth\PasswordController',
-// ]);
-
-
+// Route ke halaman guest
 Route::get('/', 'ArticleController@index');
 Route::get('article', 'ArticleController@showAll');
-Route::get('article/create', 'ArticleController@create');
-Route::post('article', 'ArticleController@store');
 Route::get('article/{id}', 'ArticleController@show');
-Route::get('article/{id}/edit', [
-	'as' => 'article.edit',
-	'uses' => 'ArticleController@edit'
+
+// Authentication
+Route::controllers([
+	'auth' => 'Auth\AuthController',
+	'password' => 'Auth\PasswordController'
 	]);
-Route::put('article/{id}', [
-	'as' => 'article.update',
-	'uses' => 'ArticleController@update'
+
+// Route ke halaman admin
+Route::get('admin', 'AdminPageController@index');
+Route::get('admin/article', 'AdminPageController@showAll');
+Route::get('admin/articlecreate', 'AdminPageController@create');
+Route::get('admin/article/{id}', 'AdminPageController@show');
+Route::post('admin/article', 'AdminPageController@store');
+Route::get('admin/article/{id}/edit', [
+	'as' => 'admin.edit',
+	'uses' => 'AdminPageController@edit'
 	]);
-Route::delete('article/{id}', [
-	'as' => 'article.destroy',
-	'uses' => 'ArticleController@destroy'
+Route::put('admin/article/{id}', [
+	'as' => 'admin.update',
+	'uses' => 'AdminPageController@update'
+	]);
+Route::delete('admin/artilce/{id}', [
+	'as' => 'admin.destroy',
+	'uses' => 'AdminPageController@destroy'
 	]);

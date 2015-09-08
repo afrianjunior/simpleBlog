@@ -1,5 +1,6 @@
 <?php namespace App\Http\Controllers;
 
+use Auth;
 use App\Article;
 use Session;
 use App\Http\Requests;
@@ -13,14 +14,28 @@ class ArticleController extends Controller {
 		return view('front.index');
 	}
 
+	// Lihat Semua Artikel Pada Halaman Tamu
 	public function showAll(){
 		$articles = Article::latest('published_at')->get();
 
 		return view('article.showall', compact('articles', $articles));
 	}
 
+	// Lihat Artikel/Judul Pada Halaman Tamu
+	public function show($id){
+		$article = Article::findOrFail($id);
+
+		return view('article.show', compact('article'));
+	}
+	
 	public function create(){
-		return view('article.create');
+
+		// harus login dulu
+		if(Auth::check()){
+			return view('article.create');	
+		}else{
+			return redirect('/auth/login');
+		}
 	}
 
 	public function store(Request $request){
@@ -37,11 +52,7 @@ class ArticleController extends Controller {
 		return redirect('article')->with('flash_message', 'Article Successfully Added');
 	}
 
-	public function show($id){
-		$article = Article::findOrFail($id);
 
-		return view('article.show', compact('article'));
-	}
 
 	public function edit($id){
 		$article = Article::findOrFail($id);

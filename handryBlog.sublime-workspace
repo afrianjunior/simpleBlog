@@ -4,20 +4,28 @@
 		"selected_items":
 		[
 			[
+				"publi",
+				"published_at"
+			],
+			[
+				"che",
+				"check"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
 				"ar",
 				"articles"
 			],
 			[
 				"requ",
 				"request"
-			],
-			[
-				"h",
-				"h2	Tag"
-			],
-			[
-				"A",
-				"ArticleController"
 			],
 			[
 				"SU",
@@ -506,48 +514,24 @@
 			[
 				"mysql_num",
 				"mysql_num_rows"
-			],
-			[
-				"pass",
-				"password"
-			],
-			[
-				"mysql_re",
-				"mysql_real_escape_string"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "resources/views/article/showall.blade.php",
+			"file": "app/Http/routes.php",
 			"settings":
 			{
-				"buffer_size": 439,
+				"buffer_size": 1334,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "resources/views/front/index.blade.php",
+			"file": "app/Http/Controllers/AdminPageController.php",
 			"settings":
 			{
-				"buffer_size": 90,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/layouts/master.blade.php",
-			"settings":
-			{
-				"buffer_size": 734,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "resources/views/article/show.blade.php",
-			"settings":
-			{
-				"buffer_size": 550,
+				"buffer_size": 2114,
 				"line_ending": "Unix"
 			}
 		},
@@ -555,7 +539,127 @@
 			"file": "app/Http/Controllers/ArticleController.php",
 			"settings":
 			{
-				"buffer_size": 1641,
+				"buffer_size": 1754,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/article/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 217,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/show.blade.php",
+			"settings":
+			{
+				"buffer_size": 552,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/article/showall.blade.php",
+			"settings":
+			{
+				"buffer_size": 353,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/showall.blade.php",
+			"settings":
+			{
+				"buffer_size": 442,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/article/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 871,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/edit.blade.php",
+			"settings":
+			{
+				"buffer_size": 875,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/article/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 695,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/create.blade.php",
+			"settings":
+			{
+				"buffer_size": 701,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Article.php",
+			"settings":
+			{
+				"buffer_size": 160,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/index.php",
+			"settings":
+			{
+				"buffer_size": 1777,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Controllers/Auth/AuthController.php",
+			"settings":
+			{
+				"buffer_size": 1143,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/User.php",
+			"settings":
+			{
+				"buffer_size": 800,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Http/Middleware/RedirectIfAuthenticated.php",
+			"settings":
+			{
+				"buffer_size": 756,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/front/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 913,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "resources/views/admin/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 928,
 				"line_ending": "Unix"
 			}
 		}
@@ -596,31 +700,53 @@
 	},
 	"file_history":
 	[
-		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Services/Registrar.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/bootstrap/autoload.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/config/auth.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/Auth/AuthController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/admin/index.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/User.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/Auth/PasswordController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/laravel5.0/app/Http/Controllers/Auth/AuthController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/auth/login.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/layouts/master.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/blog.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/AdminPageController.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/front/index.blade.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/ArticleController.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/article/showall.blade.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/laravel5.0/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Middleware/RedirectIfAuthenticated.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/2014_10_12_100000_create_password_resets_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/.gitkeep",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/2015_09_01_125343_create_articles_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/2015_09_05_052847_create_users_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/LoginController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/ArticleController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/routes.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/Auth/AuthController.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/2015_09_05_051805_create_users_table.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Article.php",
+		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/article/show.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/article/edit.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/partials/alerts/errors.blade.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/article/show.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/article/create.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/articles/index.blade.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/resources/views/layouts/master.blade.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Article.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/.env",
 		"/home/handrywahyudi/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
 		"/home/handrywahyudi/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Article.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/front/work.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/layouts/master.blade.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/database/migrations/2015_09_01_125343_create_articles_table.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/Controllers/ArticlesController.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/storage/framework/views/fd574dee324bd735e7cc24563a91652c",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/storage/framework/views/70c5eb3fcb64536d18e78176daf02b8b",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_25_155537_create_tasks_table.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2015_08_29_171217_create_articles_table.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/handryBlog/app/Http/Controllers/WelcomeController.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/routes.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/partials/alerts/errors.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/articles/create.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/articles/edit.blade.php",
@@ -654,7 +780,6 @@
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/database/migrations/2014_10_12_000000_create_users_table.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/app/Http/Controllers/TasksControler.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/blog5.0/resources/views/tasks/index.master.blade",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/web-static/resources/views/blog.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/app/Http/Controllers/WelcomeController.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/app/Http/routes.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/mhs_baru/resources/views/front/konten-awal.blade.php",
@@ -666,7 +791,6 @@
 		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/tasks/index.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/tasks/create.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/TaskController.php",
-		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/routes.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/layouts/master.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/resources/views/pages/home.blade.php",
 		"/home/handrywahyudi/Documents/belajarLaravel/code/my-first-app/app/Http/Controllers/PagesController.php",
@@ -703,27 +827,7 @@
 		"/home/handrywahyudi/Documents/belajarPython/pythonLab/tebakAngka.py",
 		"/home/handrywahyudi/Documents/belajarPython/pythonLab/15argumen.py",
 		"/home/handrywahyudi/Documents/belajarPython/pythonLab/fungsiBersarang.py",
-		"/home/handrywahyudi/.bashrc",
-		"/home/handrywahyudi/Documents/belajarLaravel/OOP/class_lib.php",
-		"/home/handrywahyudi/Documents/belajarPython/pythonLab/fungsiBersarang.pyt",
-		"/home/handrywahyudi/Documents/belajarPython/pythonLab/argumenListTuple.py",
-		"/home/handrywahyudi/Documents/belajarPython/pythonLab/bilanganPrima.py",
-		"/home/handrywahyudi/Documents/belajarPython/pythonLab/balikKata.py",
-		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/newsletter/views.py",
-		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/trydjango18/settings.py",
-		"/home/handrywahyudi/Documents/belajarPython/DjangoTutorial/trydjango18/templates/base.html",
-		"/home/handrywahyudi/Documents/belajarPython/BlogDjango/blog/blog/settings.py",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.ortu.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/actAset.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.lihat.ortu.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.index.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.lihat.identitas.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.aset.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.lihat.aset.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/page.identitas.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/index.php",
-		"/home/handrywahyudi/public_html/mhs_baru3/lihatIdentitas.php",
-		"/home/handrywahyudi/Documents/belajarPython/DjangoMongo/MyBlog/MyBlog/templates/messages.html"
+		"/home/handrywahyudi/.bashrc"
 	],
 	"find":
 	{
@@ -741,6 +845,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"redirect",
 			">\n",
 			"		\n",
 			"article",
@@ -875,82 +980,83 @@
 	"groups":
 	[
 		{
-			"selected": 4,
+			"selected": 2,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "resources/views/article/showall.blade.php",
+					"file": "app/Http/routes.php",
 					"settings":
 					{
-						"buffer_size": 439,
+						"buffer_size": 1334,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								569,
+								569
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 54.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "resources/views/front/index.blade.php",
+					"file": "app/Http/Controllers/AdminPageController.php",
 					"settings":
 					{
-						"buffer_size": 90,
+						"buffer_size": 2114,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1740,
+								1740
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/PHP/PHP.tmLanguage"
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 648.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "resources/views/layouts/master.blade.php",
+					"file": "app/Http/Controllers/ArticleController.php",
 					"settings":
 					{
-						"buffer_size": 734,
+						"buffer_size": 1754,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								490,
-								490
+								884,
+								884
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -963,15 +1069,15 @@
 					"file": "resources/views/article/show.blade.php",
 					"settings":
 					{
-						"buffer_size": 550,
+						"buffer_size": 217,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								211,
+								211
 							]
 						],
 						"settings":
@@ -987,18 +1093,18 @@
 				},
 				{
 					"buffer": 4,
-					"file": "app/Http/Controllers/ArticleController.php",
+					"file": "resources/views/admin/show.blade.php",
 					"settings":
 					{
-						"buffer_size": 1641,
+						"buffer_size": 552,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1337,
-								1337
+								399,
+								399
 							]
 						],
 						"settings":
@@ -1007,7 +1113,354 @@
 							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
-						"translation.y": 1024.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "resources/views/article/showall.blade.php",
+					"settings":
+					{
+						"buffer_size": 353,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								325,
+								325
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "resources/views/admin/showall.blade.php",
+					"settings":
+					{
+						"buffer_size": 442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								61
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "resources/views/article/edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 871,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 270.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "resources/views/admin/edit.blade.php",
+					"settings":
+					{
+						"buffer_size": 875,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								445,
+								445
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "resources/views/article/create.blade.php",
+					"settings":
+					{
+						"buffer_size": 695,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								208,
+								208
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "resources/views/admin/create.blade.php",
+					"settings":
+					{
+						"buffer_size": 701,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "app/Article.php",
+					"settings":
+					{
+						"buffer_size": 160,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "public/index.php",
+					"settings":
+					{
+						"buffer_size": 1777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 300.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "app/Http/Controllers/Auth/AuthController.php",
+					"settings":
+					{
+						"buffer_size": 1143,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								723,
+								723
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 360.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/User.php",
+					"settings":
+					{
+						"buffer_size": 800,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 180.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 15,
+					"file": "app/Http/Middleware/RedirectIfAuthenticated.php",
+					"settings":
+					{
+						"buffer_size": 756,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								714,
+								714
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 420.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 16,
+					"file": "resources/views/front/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 913,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								913,
+								913
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 17,
+					"file": "resources/views/admin/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 928,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								638,
+								638
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 60.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
