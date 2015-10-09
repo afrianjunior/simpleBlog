@@ -1,12 +1,13 @@
 @extends('layouts.master')
 
 @section('content')
-	<h1>{{ $article->title }}</h1>
-
-	<article>
-		{{ $article->body }}
-	</article>
-	<hr>
-
-	<a href="{{ url('article') }}" class="btn btn-info">Back To All Articles</a>
+	<div class="row">
+		<div class="col-md-9">
+			<h1 class="page-header">{{ $article->title }} <a href="{{ url('article') }}" class="btn btn-info pull-right">Back To All Articles</a></h1>
+			<article>
+				{{ $article->body }}
+			</article>
+		</div>
+	</div>
+		
 @stop

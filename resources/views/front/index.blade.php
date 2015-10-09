@@ -1,39 +1,32 @@
-<!doctype html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>handry blog</title>
-<link rel="stylesheet" href="{{ asset('css/bootstrap.min.css') }}">
-</head>
-<body>
+@extends('layouts.master')
 
-<nav class="navbar navbar-default">
-  <div class="container-fluid">
-    <!-- <div class="navbar-header"> -->
-    <div class="nav navbar-nav navbar-left">
-        <li><a href="/">Home</a></li>
-        <li><a href="/article">Article</a></li>
-        <li><a href="">About</a></li>
+@section('content')
+
+    <div class="row">
+    	<div class="col-md-12">
+    		<h1 class="page-header">Welcome to My Blog!</h1>
+    	</div>
+    	<div class="col-md-9">
+    		@if(session()->has('flash_message'))
+		        <div class="alert alert-success">
+		          {{ session('flash_message') }}
+		        </div>
+		    @endif
+    	</div>
+    	<div class="col-md-3">
+    		<div class="panel panel-default">
+    			<div class="panel-heading">
+    				<strong>Categories</strong>
+    			</div>
+    			<div class="panel-body">
+    				<ul>
+    					<li><a href="#"></a>Undefined</li>
+    					<li><a href="#"></a>Wohooo</li>
+    					<li><a href="#"></a>Awkward</li>
+    				</ul>
+    			</div>
+    		</div>
+    	</div>
     </div>
-    <div class="nav navbar-nav navbar-right">
-    	<li><a href="/auth/login">Login</a></li>
-    </div>
-  </div>
-</nav>
 
-<main>
-    <div class="container">
-
-      @if(session()->has('flash_message'))
-        <div class="alert alert-success">
-          {{ session('flash_message') }}
-        </div>
-      @endif
-
-      <h1>WELCOME TO MY BLOG</h1>
-    </div>
-</main>
-
-</body>
-</html>
+@endsection
