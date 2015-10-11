@@ -1,15 +1,23 @@
 @extends('layouts.master')
 
 @section('content')
-<!-- <h2><a href="article/create">Create New Article</a></h2> -->
-<hr>
-	@foreach($articles as $article)
-		<h2>{{ $article->title }}</h2>
-		<article>
-			<p>{{ $article->body }}</p>
-		</article>
-		<a href="{{ url('article', $article->id) }}" class="btn btn-info">View Article</a>
-	@endforeach
-		<hr>
+
+	<div class="row-fluid">
+		<div class="col-md-9">
+			<h1 class="page-header">Latest Article</h1>
+			<div class="row">
+				@foreach($articles as $article)
+					<div class="col-md-12">
+						<h2>{{ $article->title }}</h2>
+						<article>
+							<p>{{ $article->body }}</p>
+						</article>
+						<a href="{{ url('article', $article->id) }}" class="btn btn-info">View Article</a>
+					</div>
+					<hr>
+				@endforeach					
+			</div>
+		</div>
+	</div>
  
 @stop

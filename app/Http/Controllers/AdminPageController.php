@@ -10,86 +10,61 @@ use Illuminate\Http\Request;
 
 class AdminPageController extends Controller {
 
-	public function index(){
-		if(Auth::check()){
-			return view('admin.index');	
-		}else{
-			return view('front.index');
-		}		
+	public function __construct()
+	{
+		$this->middleware('auth');
+	}
+
+	public function index(){	
+		return view('admin.index');				
 	}
 
 	// Lihat Semua Artikel Pada Halaman Admin
-	public function showall(){
-		if(Auth::check()){
-			$articles = Article::latest('published_at')->get();
-			return view('admin.showall', compact('articles', $articles));
-		}else{
-			return redirect('/');
-		}
+	public function showall(){		
+		$articles = Article::latest('published_at')->get();
+		return view('admin.showall', compact('articles', $articles));		
 	}
 
 	// Lihat Artikel/Judul Pada Halaman Admin
 	public function show($id){
-		if(Auth::check()){
-			$article = Article::findOrfail($id);
-			return view('admin.show', compact('article'));
-		}else{
-			return redirect('/');
-		}
+		$article = Article::findOrfail($id);
+		return view('admin.show', compact('article'));		
 	}
 
 	public function create(){
-		if(Auth::check()){
-			return view('admin.create');
-		}else{
-			return redirect('/');
-		}
-
+		return view('admin.create');	
 	}
 
-	public function store(Request $request){
-		if(Auth::check()){
-			$this->validate($request, [
-				'title' => 'required',
-				'body' => 'required'
-			]);
+	public function store(Request $request){		
+		$this->validate($request, [
+			'title' => 'required',
+			'body' => 'required'
+		]);
 
-			$input = $request->all();
-			$input['published_at'] = Carbon::now();
+		$input = $request->all();
+		$input['published_at'] = Carbon::now();
 
-			Article::create($input);
+		Article::create($input);
 
-			return redirect('admin/article')->with('flash_message', 'Article Succesfully Added!');
-		}else{
-			return redirect('/');	
-		}
-		
+		return redirect('admin/article')->with('flash_message', 'Article Succesfully Added!');				
 	}
 
 	public function edit($id){
-		if(Auth::check()){
-			$article = Article::findOrfail($id);
-			return view('admin.edit', compact('article'));
-		}else{
-			return redirect('/');
-		}
+		$article = Article::findOrfail($id);
+		return view('admin.edit', compact('article'));	
 	}
 
-	public function update($id, Request $request){
-		if(Auth::check()){
-			$article = Article::findOrfail($id);
+	public function update($id, Request $request){		
+		$article = Article::findOrfail($id);
 
-			$this->validate($request, [
-				'title' => 'required',
-				'body' => 'required'
-				]);
+		$this->validate($request, [
+			'title' => 'required',
+			'body' => 'required'
+			]);
 
-			$article->fill($request->all())->save();
+		$article->fill($request->all())->save();
 
-			return redirect('admin/article')->with('flash_message', 'Article Succesfully Updated ');
-		}else{
-			return redirect('/');
-		}
+		return redirect('admin/article')->with('flash_message', 'Article Succesfully Updated ');		
 		
 	}
 
